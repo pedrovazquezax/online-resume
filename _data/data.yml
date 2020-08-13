@@ -105,25 +105,17 @@ projects:
     intro: >
       Una pequeña lista de los premios y reconocimitentos que he recibido.
     assignments:
-      - title: Velocity
+      - title: M Hacks V - Internacional - Finalista
         link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        tagline: "Tuve la oportunidad de ir a la quinta edicion de MHacks en Michigan University y resultar finalista."
 
-      - title: DevStudio
+      - title: MX Hacks - Nacional - Primer Lugar
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        tagline: "Participe en la primer edicion de este hackathon y resulte ganador con el proyecto "Haffe" "
 
-      - title: Tempo
+      - title: Hacking Health Hackathon  - Nacional - Segundo Lugar
         link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        tagline: "Participe en este hackathon y obtuve el segundo lugar  con el proyecto "Family Health""
         
     title: Premios y Reconocimientos
     intro: >
