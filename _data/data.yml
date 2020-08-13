@@ -98,74 +98,67 @@ experiences:
       company: Freelance
       details: |
         En estos momentos me encuentro colaborando con una empresa para desarrolar una aplicacion para la cotizacion de seguros.
+        -Swift
+        -Swift UI
 projects:
     title: Premios y Reconocimientos
     intro: >
       Una pequeña lista de los premios y reconocimitentos que he recibido.
     assignments:
-      - title: Velocity
+      - title: M Hacks V - Internacional - Finalista
         link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+        tagline: "Tuve la oportunidad de ir a la quinta edicion de MHacks en Michigan University y resultar finalista."
 
-      - title: DevStudio
+      - title: MX Hacks - Nacional - Primer Lugar
         link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+        tagline: "Participe en la primer edicion de este hackathon y resulte ganador con el proyecto "Haffe" "
 
-      - title: Tempo
+      - title: Hacking Health Hackathon  - Nacional - Segundo Lugar
         link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+        tagline: "Participe en este hackathon y obtuve el segundo lugar  con el proyecto "Family Health""
+        
+      title: Proyectos
+      intro: >
+        Una pequeña lista los proyectos e ideas que he desarrollado.
+      assignments:
+       - title: M Hacks V - Internacional - Finalista
+        link: "#hook"
+         tagline: "Tuve la oportunidad de ir a la quinta edicion de MHacks en Michigan University y resultar finalista."
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+        - title: MX Hacks - Nacional - Primer Lugar
+          link: "#"
+          tagline: "Participe en la primer edicion de este hackathon y resulte ganador con el proyecto "Haffe" "
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+        - title: Hacking Health Hackathon  - Nacional - Segundo Lugar
+          link: "#"
+          tagline: "Participe en este hackathon y obtuve el segundo lugar  con el proyecto "Family Health""
 
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
-
-      - name: Javascript & jQuery
-        level: 98%
-
-      - name: Angular
-        level: 98%
-
-      - name: HTML5 & CSS
+      - name: Swift
         level: 95%
 
-      - name: Ruby on Rails
-        level: 85%
+      - name: Javas
+        level: 70%
 
-      - name: Sketch & Photoshop
+      - name: PHP
         level: 60%
 
+      - name: HTML5 Y CSS
+        level: 70%
+
+      - name: Javascript y jQuery
+        level: 70%
+
+      - name: Node JS
+        level: 30%
+
+      - name: Sketch, Photoshop e Illustrator
+        level: 80%
+
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+    <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Pedro Vazquez</a>
