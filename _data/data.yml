@@ -32,11 +32,11 @@ sidebar:
       - idiom: Ingles
         level: Profesional
 
-      - idiom: Alemanbundle exec jekyll serve
+      - idiom: Aleman
         level: Aprendiendo
 
     interests:
-      - item: Climbing
+      - item: Hackathones
         link:
 
       - item: Snowboarding
@@ -45,82 +45,63 @@ sidebar:
       - item: Cocinar
         link:
 
+      - item: Pescar
+        link:
+
 career-profile:
-    title: Career Profile
+    title: Acerca de mi 
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Actualmente, me encuentro finalizando la carrera de Ingeniería en Computación. 
+      Fui vicepresidente de la Sociedad de Alumnos de Ingeniería en Computación (SAIC) y soy colaborador en el iOS Development Lab de la Facultad de Ingeniería(UNAM) impartiendo cursos y dando mentorías. 
+      Mis intereses son el desarrollo de aplicaciones para dispositivos móviles, la creación y gestión  de proyectos, la creación de aplicaciones para mejorar la salud.
+      En esos momento me encuentro estudiando Node JS para poder ser un Full Stack Developer.
+
 education:
-    - degree: MSc in Computer Science
-      university: University of London
+    - degree: Ingeniería en Computación
+      university: Universidad Nacional Autónoma de México(UNAM)
+      time: 2014 - Actual
+      details: |
+        Estudie la carrera de ingeniería en Computación en la Facultad de Ingeniería UNAM, en ella tuve varias oportunidades de ir a concursos nacionales e internacionales, ademas de aparecer en la gaceta de la universidad y ser colaborador del iOS Development Lab.
+          - Especialidad Desarrollo de Software
+    - degree: Diplomado de Desarrollo de aplicaicones Móviles
+      university: Facultad Ingeniería, UNAM
+      time: 2019 - 2020
+      details: |
+        Tome este diplomado debido a que me ayudo a especializarme en mi area de interes, que es el desarrollo de aplocaciones moviles para iOS.
+    - degree: Diseño Grafico Digital , Tecnico
+      university: Centro de Computación Profesional de México(CCPM)
       time: 2011 - 2012
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+        Aqui tuve mis primeros acercamientos al mundo del diseño
+    - degree: Diseño Grafico Digital , Tecnico
+      university: Centro de Computación Profesional de México(CCPM)
+      time: 2010 - 2011
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        Aqui tuve mis primeros acercamientos al mundo de la programacion, gracias a esta escuela encontre mi mayor hobbie  "La programacion", del cual decidi hacer mi carrera profesional.
+        
+
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Desarrollador
+      time: 2018 - 2019
+      company: Tribunal Electoral de la Ciudad de México (TECDMX)
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+        Desarrollamos un sistema para el llenado de los datos partiendo de consultas a una base de datos,dicho sistema se hizo en lenguaje JAVA.
+          - Java
+    - role: Desarrollador
+      time: 2019 - 2019
+      company: Instituto Nacional de la Infraestructura Física Educativa (INIFED)
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+        Desarrollamos un sistema para la gestion de la reconstrucción de escuelas destruidas por el sismo de México 2017,dicho sistema se hizo en lenguaje PHP.
+          - PHP
+    - role: Desarrollador
+      time: 2020 - Actualmente
+      company: Freelance
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        En estos momentos me encuentro colaborando con una empresa para desarrolar una aplicacion para la cotizacion de seguros.
 projects:
-    title: Projects
+    title: Premios y Reconocimientos
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      Una pequeña lista de los premios y reconocimitentos que he recibido.
     assignments:
       - title: Velocity
         link: "#hook"
