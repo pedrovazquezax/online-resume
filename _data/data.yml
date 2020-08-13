@@ -103,7 +103,7 @@ experiences:
 projects:
     title: Premios y Reconocimientos
     intro: >
-      Una pequeña lista de los premios y reconocimitentos que he recibido.
+      Una pequeña lista los proyectos e ideas que he desarrollado.
     assignments:
       - title: M Hacks V - Internacional - Finalista
         link: "#hook"
@@ -111,13 +111,13 @@ projects:
 
       - title: MX Hacks - Nacional - Primer Lugar
         link: "#"
-        tagline: "Participe en la primer edicion de este hackathon y resulte ganador con el proyecto "Haffe" "
+        tagline: "Participe en la primer edicion de este hackathon y resulte ganador con el proyecto Haffe. "
 
       - title: Hacking Health Hackathon  - Nacional - Segundo Lugar
         link: "#"
-        tagline: "Participe en este hackathon y obtuve el segundo lugar  con el proyecto "Family Health""
-        
-    title: Premios y Reconocimientos
+        tagline: "Participe en este hackathon y obtuve el segundo lugar  con el proyecto Family Health."
+
+    title: Proyectos
     intro: >
       Una pequeña lista de los premios y reconocimitentos que he recibido.
     assignments:
