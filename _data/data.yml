@@ -123,28 +123,6 @@ projects:
       - title: Pulmonary
         link: "https://github.com/pedrovazquezax/Pulmonary"
         tagline: "Una aplicacion desarrollada para detectar el daño en pulmones por medio de Machine Learning"
-# publications:
-#     title: Publications
-#     intro: |
-#       You can list your publications in this section. Lorem ipsum dolor sit
-#       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-#       bibendum fringilla a eu lectus.
-#     papers:
-#       - title: The Art of Computer Programming
-#         link: "#"
-#         authors: Donald E. Knuth
-#         conference: Addison-Wesley, 1968
-
-#       - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-#         link: "#"
-#         authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-#         conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-#       - title: A syntax directed compiler for Algol 60
-#         link: "#"
-#         authors: Edgar T. Irons
-#         conference: 
-
 skills:
     title: Lenguajes de Programación
 
@@ -173,14 +151,3 @@ skills:
 footer: >
     Pedro Vazquez - Curriculim Vitae 
 
-# # title: Proyectos
-# #       intro: >
-# #         Una pequeña lista los proyectos e ideas que he desarrollado.
-# #       assignments:
-# #        - title: RoadToWWDC
-# #         link: "https://pedrovazquezax.github.io/RoadToWWDC/"
-# #          tagline: "Es una wiki la cual esta hecha para enseñar a los alumnos como aplicar a la WWDC y el compartir experiencias, siente libre de colaborar en ella"
-
-# #         - title: Pulmonary
-# #           link: "https://github.com/pedrovazquezax/Pulmonary"
-# #           tagline: "Una aplicacion desarrollada para detectar el daño en pulmones por medio de Machine Learning"
