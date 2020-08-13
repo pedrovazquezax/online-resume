@@ -116,23 +116,6 @@ projects:
       - title: Hacking Health Hackathon  - Nacional - Segundo Lugar
         link: "#"
         tagline: "Participe en este hackathon y obtuve el segundo lugar  con el proyecto "Family Health""
-        
-      title: Proyectos
-      intro: >
-        Una pequeña lista los proyectos e ideas que he desarrollado.
-      assignments:
-       - title: M Hacks V - Internacional - Finalista
-        link: "#hook"
-         tagline: "Tuve la oportunidad de ir a la quinta edicion de MHacks en Michigan University y resultar finalista."
-
-        - title: MX Hacks - Nacional - Primer Lugar
-          link: "#"
-          tagline: "Participe en la primer edicion de este hackathon y resulte ganador con el proyecto "Haffe" "
-
-        - title: Hacking Health Hackathon  - Nacional - Segundo Lugar
-          link: "#"
-          tagline: "Participe en este hackathon y obtuve el segundo lugar  con el proyecto "Family Health""
-
 publications:
     title: Publications
     intro: |
@@ -182,3 +165,16 @@ skills:
 
 footer: >
     <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Pedro Vazquez</a>
+
+
+# title: Proyectos
+#       intro: >
+#         Una pequeña lista los proyectos e ideas que he desarrollado.
+#       assignments:
+#        - title: RoadToWWDC
+#         link: "https://pedrovazquezax.github.io/RoadToWWDC/"
+#          tagline: "Es una wiki la cual esta hecha para enseñar a los alumnos como aplicar a la WWDC y el compartir experiencias, siente libre de colaborar en ella"
+
+#         - title: Pulmonary
+#           link: "https://github.com/pedrovazquezax/Pulmonary"
+#           tagline: "Una aplicacion desarrollada para detectar el daño en pulmones por medio de Machine Learning"
