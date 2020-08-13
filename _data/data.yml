@@ -116,8 +116,9 @@ projects:
       - title: Hacking Health Hackathon  - Nacional - Segundo Lugar
         link: "#"
         tagline: "Participe en este hackathon y obtuve el segundo lugar  con el proyecto "Family Health""
+
 publications:
-    title: Publications
+    title: Proyectos 
     intro: |
       You can list your publications in this section. Lorem ipsum dolor sit
       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
@@ -126,7 +127,7 @@ publications:
       - title: The Art of Computer Programming
         link: "#"
         authors: Donald E. Knuth
-        conference: 
+        conference: Addison-Wesley, 1968
 
       - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
         link: "#"
@@ -136,10 +137,10 @@ publications:
       - title: A syntax directed compiler for Algol 60
         link: "#"
         authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+        conference: 
 
 skills:
-    title: Skills &amp; Proficiency
+    title: Lenguajes de Programación
 
     toolset:
       - name: Swift
@@ -164,17 +165,185 @@ skills:
         level: 80%
 
 footer: >
-    <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Pedro Vazquez</a>
+    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+
+# #
+# # Be aware that even a small syntax error here can lead to failures in output.
+# #
+
+# sidebar:
+#     about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
+#     education: True # set to False if you want education in main section instead of in sidebar
+
+#     # Profile information
+#     name: Pedro Vazquez
+#     tagline: iOS Developer
+#     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+
+#     # Sidebar links
+#     email: pedrovazquezax@gmail.com
+#     phone: +(52) 55 3953 4539
+#     website: /pedrovazquezax.github.io #do not add http://
+#     linkedin: pedro-antonio-vazquez-rodriguez-a63952ab
+#     github: pedrovazquezax
+#     telegram: # add your nickname without '@' sign
+#     gitlab: pedrovazquezax
+#     bitbucket:
+#     twitter: '@pedrovazquezax1'
+#     stack-overflow: # Number/Username, e.g. 123456/alandoe
+#     codewars:
+#     goodreads: # Number-Username, e.g. 123456-alandoe
+
+#     languages:
+#       - idiom: Español
+#         level: Nativo
+
+#       - idiom: Ingles
+#         level: Profesional
+
+#       - idiom: Aleman
+#         level: Aprendiendo
+
+#     interests:
+#       - item: Hackathones
+#         link:
+
+#       - item: Snowboarding
+#         link:
+
+#       - item: Cocinar
+#         link:
+
+#       - item: Pescar
+#         link:
+
+# career-profile:
+#     title: Acerca de mi 
+#     summary: |
+#       Actualmente, me encuentro finalizando la carrera de Ingeniería en Computación. 
+#       Fui vicepresidente de la Sociedad de Alumnos de Ingeniería en Computación (SAIC) y soy colaborador en el iOS Development Lab de la Facultad de Ingeniería(UNAM) impartiendo cursos y dando mentorías. 
+#       Mis intereses son el desarrollo de aplicaciones para dispositivos móviles, la creación y gestión  de proyectos, la creación de aplicaciones para mejorar la salud.
+#       En esos momento me encuentro estudiando Node JS para poder ser un Full Stack Developer.
+
+# education:
+#     - degree: Ingeniería en Computación
+#       university: Universidad Nacional Autónoma de México(UNAM)
+#       time: 2014 - Actual
+#       details: |
+#         Estudie la carrera de ingeniería en Computación en la Facultad de Ingeniería UNAM, en ella tuve varias oportunidades de ir a concursos nacionales e internacionales, ademas de aparecer en la gaceta de la universidad y ser colaborador del iOS Development Lab.
+#           - Especialidad Desarrollo de Software
+#     - degree: Diplomado de Desarrollo de aplicaicones Móviles
+#       university: Facultad Ingeniería, UNAM
+#       time: 2019 - 2020
+#       details: |
+#         Tome este diplomado debido a que me ayudo a especializarme en mi area de interes, que es el desarrollo de aplocaciones moviles para iOS.
+#     - degree: Diseño Grafico Digital , Tecnico
+#       university: Centro de Computación Profesional de México(CCPM)
+#       time: 2011 - 2012
+#       details: |
+#         Aqui tuve mis primeros acercamientos al mundo del diseño
+#     - degree: Diseño Grafico Digital , Tecnico
+#       university: Centro de Computación Profesional de México(CCPM)
+#       time: 2010 - 2011
+#       details: |
+#         Aqui tuve mis primeros acercamientos al mundo de la programacion, gracias a esta escuela encontre mi mayor hobbie  "La programacion", del cual decidi hacer mi carrera profesional.
+        
+
+# experiences:
+#     - role: Desarrollador
+#       time: 2018 - 2019
+#       company: Tribunal Electoral de la Ciudad de México (TECDMX)
+#       details: |
+#         Desarrollamos un sistema para el llenado de los datos partiendo de consultas a una base de datos,dicho sistema se hizo en lenguaje JAVA.
+#           - Java
+#     - role: Desarrollador
+#       time: 2019 - 2019
+#       company: Instituto Nacional de la Infraestructura Física Educativa (INIFED)
+#       details: |
+#         Desarrollamos un sistema para la gestion de la reconstrucción de escuelas destruidas por el sismo de México 2017,dicho sistema se hizo en lenguaje PHP.
+#           - PHP
+#     - role: Desarrollador
+#       time: 2020 - Actualmente
+#       company: Freelance
+#       details: |
+#         En estos momentos me encuentro colaborando con una empresa para desarrolar una aplicacion para la cotizacion de seguros.
+#         -Swift
+#         -Swift UI
+# projects:
+#     title: Premios y Reconocimientos
+#     intro: >
+#       Una pequeña lista de los premios y reconocimitentos que he recibido.
+#     assignments:
+#       - title: M Hacks V - Internacional - Finalista
+#         link: "#hook"
+#         tagline: "Tuve la oportunidad de ir a la quinta edicion de MHacks en Michigan University y resultar finalista."
+
+#       - title: MX Hacks - Nacional - Primer Lugar
+#         link: "#"
+#         tagline: "Participe en la primer edicion de este hackathon y resulte ganador con el proyecto "Haffe" "
+
+#       - title: Hacking Health Hackathon  - Nacional - Segundo Lugar
+#         link: "#"
+#         tagline: "Participe en este hackathon y obtuve el segundo lugar  con el proyecto "Family Health""
+# publications:
+#     title: Publications
+#     intro: |
+#       You can list your publications in this section. Lorem ipsum dolor sit
+#       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+#       bibendum fringilla a eu lectus.
+#     papers:
+#       - title: The Art of Computer Programming
+#         link: "#"
+#         authors: Donald E. Knuth
+#         conference: 
+
+#       - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+#         link: "#"
+#         authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+#         conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+
+#       - title: A syntax directed compiler for Algol 60
+#         link: "#"
+#         authors: Edgar T. Irons
+#         conference: "Comm. ACM 4 (1961), 51–55"
+
+# skills:
+#     title: Skills &amp; Proficiency
+
+#     toolset:
+#       - name: Swift
+#         level: 95%
+
+#       - name: Javas
+#         level: 70%
+
+#       - name: PHP
+#         level: 60%
+
+#       - name: HTML5 Y CSS
+#         level: 70%
+
+#       - name: Javascript y jQuery
+#         level: 70%
+
+#       - name: Node JS
+#         level: 30%
+
+#       - name: Sketch, Photoshop e Illustrator
+#         level: 80%
+
+# footer: >
+#     <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Pedro Vazquez</a>
 
 
-# title: Proyectos
-#       intro: >
-#         Una pequeña lista los proyectos e ideas que he desarrollado.
-#       assignments:
-#        - title: RoadToWWDC
-#         link: "https://pedrovazquezax.github.io/RoadToWWDC/"
-#          tagline: "Es una wiki la cual esta hecha para enseñar a los alumnos como aplicar a la WWDC y el compartir experiencias, siente libre de colaborar en ella"
+# # title: Proyectos
+# #       intro: >
+# #         Una pequeña lista los proyectos e ideas que he desarrollado.
+# #       assignments:
+# #        - title: RoadToWWDC
+# #         link: "https://pedrovazquezax.github.io/RoadToWWDC/"
+# #          tagline: "Es una wiki la cual esta hecha para enseñar a los alumnos como aplicar a la WWDC y el compartir experiencias, siente libre de colaborar en ella"
 
-#         - title: Pulmonary
-#           link: "https://github.com/pedrovazquezax/Pulmonary"
-#           tagline: "Una aplicacion desarrollada para detectar el daño en pulmones por medio de Machine Learning"
+# #         - title: Pulmonary
+# #           link: "https://github.com/pedrovazquezax/Pulmonary"
+# #           tagline: "Una aplicacion desarrollada para detectar el daño en pulmones por medio de Machine Learning"
