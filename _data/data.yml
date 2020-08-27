@@ -8,12 +8,12 @@ sidebar:
 
     # Profile information
     name: Pedro Vazquez
-    tagline: iOS Developer
+    tagline: Desarrollador iOS
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: pedrovazquezax@gmail.com
-    phone: +(52) 55 3953 4539
+    phone: +52 (55) 3953 4539
     website: /pedrovazquezax.github.io #do not add http://
     linkedin: pedro-antonio-vazquez-rodriguez-a63952ab
     github: pedrovazquezax
@@ -106,15 +106,15 @@ projects:
       Una pequeña lista de los premios y reconocimitentos que he recibido, junto con algunos proyectos en curso.
     assignments:
       - title: M Hacks V - Internacional - Finalista
-        link: "#hook"
+        link: "https://pedrovazquezax.github.io"
         tagline: "Tuve la oportunidad de ir a la quinta edicion de MHacks en Michigan University y resultar finalista."
 
       - title: MX Hacks - Nacional - Primer Lugar
-        link: "#"
+        link: "https://pedrovazquezax.github.io"
         tagline: "Participe en la primer edicion de este hackathon y resulte ganador con el proyecto Haffe. "
 
       - title: Hacking Health Hackathon  - Nacional - Segundo Lugar
-        link: "#"
+        link: "https://pedrovazquezax.github.io"
         tagline: "Participe en este hackathon y obtuve el segundo lugar  con el proyecto Family Health."
       - title: RoadToWWDC
         link: "https://pedrovazquezax.github.io/RoadToWWDC/"
