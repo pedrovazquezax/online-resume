@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Pedro Vazquez
-    tagline: Desarrollador iOS
+    tagline: iOS Developer
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -26,105 +26,101 @@ sidebar:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
     languages:
-      - idiom: Español
-        level: Nativo
+      - idiom: Spanish
+        level: Native
 
-      - idiom: Ingles
+      - idiom: English
         level: Profesional
 
-      - idiom: Aleman
-        level: Aprendiendo
+      - idiom: German
+        level: Learning
 
     interests:
-      - item: Hackathones
+      - item: Hackathons
         link:
 
       - item: Snowboarding
         link:
 
-      - item: Cocinar
+      - item: Cooking
         link:
 
-      - item: Pescar
+      - item: Fishing
         link:
 
 career-profile:
-    title: Acerca de mi 
+    title: About Me 
     summary: |
-      Actualmente, me encuentro finalizando la carrera de Ingeniería en Computación. 
-      Fui vicepresidente de la Sociedad de Alumnos de Ingeniería en Computación (SAIC) y soy colaborador en el iOS Development Lab de la Facultad de Ingeniería(UNAM) impartiendo cursos y dando mentorías. 
-      Mis intereses son el desarrollo de aplicaciones para dispositivos móviles, la creación y gestión  de proyectos, la creación de aplicaciones para mejorar la salud.
-      En esos momento me encuentro estudiando Node JS para poder ser un Full Stack Developer.
+     Currently, I’m about to obtain my degree in Computer Engineering. I served as vice president of the Society of Students of Computer Engineering (SAIC for its initials in Spanish) and I am a collaborator teaching courses and mentoring in the UNAM’s Engineering School’s iOS Development Lab. My interests are development of applications for mobile devices, creation and management of projects and the creation of applications focused in health improvement. Currently I’m studying Node JS in order to become a Full Stack Developer.
 
 education:
-    - degree: Ingeniería en Computación
+    - degree: Computer Engieneering
       university: Universidad Nacional Autónoma de México(UNAM)
-      time: 2014 - Actual
+      time: 2014 - Present
       details: |
-        Estudie la carrera de ingeniería en Computación en la Facultad de Ingeniería UNAM, en ella tuve varias oportunidades de ir a concursos nacionales e internacionales, ademas de aparecer en la gaceta de la universidad y ser colaborador del iOS Development Lab.
-          - Especialidad Desarrollo de Software
-    - degree: Diplomado de Desarrollo de aplicaciones Móviles
+        I studied Computer Engineering at the UNAM Faculty of Engineering, where I had several opportunities to go to national and international competitions, in addition to appearing in the university's gazette and being a collaborator of the iOS Development Lab.
+          - Software Development
+    - degree: Diploma in Mobile Application Development
       university: Facultad Ingeniería, UNAM
       time: 2019 - 2020
-      details: |
-        Tome este diplomado debido a que me ayudo a especializarme en mi area de interes, que es el desarrollo de aplocaciones moviles para iOS.
-    - degree: Diseño Grafico Digital , Tecnico
+      details: 
+        I took this diploma because it helped me specialize in my area of ​​interest, which is the development of mobile applications for iOS.
+    - degree: Digital Graphic Design, Technical
       university: Centro de Computación Profesional de México(CCPM)
       time: 2011 - 2012
-      details: |
-        Aqui tuve mis primeros acercamientos al mundo del diseño
-    - degree: Diseño Grafico Digital , Tecnico
+      details: |     
+        Here I had my first approaches to the world of design
+    - degree: Computational Sistems, Technical
       university: Centro de Computación Profesional de México(CCPM)
       time: 2010 - 2011
       details: |
-        Aqui tuve mis primeros acercamientos al mundo de la programacion, gracias a esta escuela encontre mi mayor hobbie  "La programacion", del cual decidi hacer mi carrera profesional.
+        Here I had my first approaches to the world of programming, thanks to this school I found my biggest hobby "Programming", from which I decided to pursue my professional career.
         
-
 experiences:
-    - role: Desarrollador
+    - role: JAVA Developer
       time: 2018 - 2019
       company: Tribunal Electoral de la Ciudad de México (TECDMX)
       details: |
-        Desarrollamos un sistema para el llenado de los datos partiendo de consultas a una base de datos,dicho sistema se hizo en lenguaje JAVA.
+        I was involved in the development of a system whose purpose is data filling using poll data from a database, this system was developed using JAVA.
           - Java
-    - role: Desarrollador
+    - role: PHP Developer
       time: 2019 - 2019
       company: Instituto Nacional de la Infraestructura Física Educativa (INIFED)
       details: |
-        Desarrollamos un sistema para la gestion de la reconstrucción de escuelas destruidas por el sismo de México 2017,dicho sistema se hizo en lenguaje PHP.
+        I worked alongside others in the development of a system for the management of the reconstruction of schools destroyed by the 2017 earthquake in Mexico City, this system was developed in PHP.
           - PHP
     - role: Desarrollador
       time: 2020 - Actualmente
-      company: Freelance
+      company: Freelance Developer
       details: |
-        En estos momentos me encuentro colaborando con una empresa para desarrolar una aplicacion para la cotizacion de seguros.
+        I’m currently working with an insurance company in the development of an application for insurance price quotation. Swift, Swift UI
         -Swift
         -Swift UI
 projects:
-    title: Proyectos, Premios y Reconocimientos
+    title: Projects, awards and achievments.
     intro: >
-      Una pequeña lista de los premios y reconocimitentos que he recibido, junto con algunos proyectos en curso.
+      Here’s a brief list of awards and accomplishments received along some current projects.
     assignments:
-      - title: M Hacks V - Internacional - Finalista
+      - title: M Hacks V - Internacional - Finals
         link: "https://pedrovazquezax.github.io"
-        tagline: "Tuve la oportunidad de ir a la quinta edicion de MHacks en Michigan University y resultar finalista."
+        tagline: "M Hacks . National Finals. I got to the finals during the 5th edition of MHacks in Michigan University."
 
-      - title: MX Hacks - Nacional - Primer Lugar
+      - title: MX Hacks - Nacional - First Place
         link: "https://pedrovazquezax.github.io"
-        tagline: "Participe en la primer edicion de este hackathon y resulte ganador con el proyecto Haffe. "
+        tagline: "I got the first place during MX Hacks first edition with the project Haffe. "
 
-      - title: Hacking Health Hackathon  - Nacional - Segundo Lugar
+      - title: Hacking Health Hackathon  - Nacional - Second Place
         link: "https://pedrovazquezax.github.io"
-        tagline: "Participe en este hackathon y obtuve el segundo lugar  con el proyecto Family Health."
+        tagline: "I got second place during this competition with the project Family Health."
       - title: RoadToWWDC
         link: "https://pedrovazquezax.github.io/RoadToWWDC/"
-        tagline: "Es una wiki la cual esta hecha para enseñar a los alumnos como aplicar a la WWDC y el compartir experiencias, siente libre de colaborar en ella"
+        tagline: "This is a wiki site whose purpose is teaching students how to apply to WWDC and sharing their experiences, inviting anyone interested to collaborate in it."
 
       - title: Pulmonary
         link: "https://github.com/pedrovazquezax/Pulmonary"
-        tagline: "Una aplicacion desarrollada para detectar el daño en pulmones por medio de Machine Learning"
+        tagline: "An app whose purpose is detecting lung damage using Machine Learning."
 skills:
-    title: Lenguajes de Programación
+    title: Programming languages
 
     toolset:
       - name: Swift
@@ -145,9 +141,9 @@ skills:
       - name: Node JS
         level: 30%
 
-      - name: Sketch, Photoshop e Illustrator
+      - name: Sketch, Photoshop & Illustrator
         level: 80%
 
 footer: >
-    Pedro Vazquez - Curriculim Vitae 
+    Pedro Vazquez - Resume 
 
