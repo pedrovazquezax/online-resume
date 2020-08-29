@@ -49,7 +49,7 @@ sidebar:
         link:
 
 career-profile:
-    title: About Me 
+    title: CAREER PROFILE 
     summary: |
      Currently, I’m about to obtain my degree in Computer Engineering. I served as vice president of the Society of Students of Computer Engineering (SAIC for its initials in Spanish) and I am a collaborator teaching courses and mentoring in the UNAM’s Engineering School’s iOS Development Lab. My interests are development of applications for mobile devices, creation and management of projects and the creation of applications focused in health improvement. Currently I’m studying Node JS in order to become a Full Stack Developer.
 
@@ -89,15 +89,15 @@ experiences:
       details: |
         I worked alongside others in the development of a system for the management of the reconstruction of schools destroyed by the 2017 earthquake in Mexico City, this system was developed in PHP.
           - PHP
-    - role: Desarrollador
+    - role: Freelance Developer
       time: 2020 - Actualmente
-      company: Freelance Developer
+      company: Freelance
       details: |
         I’m currently working with an insurance company in the development of an application for insurance price quotation. Swift, Swift UI
         -Swift
         -Swift UI
 projects:
-    title: Projects, awards and achievments.
+    title: PROJECTS, AWARDS & ACHIEVMENTS.
     intro: >
       Here’s a brief list of awards and accomplishments received along some current projects.
     assignments:
@@ -120,7 +120,7 @@ projects:
         link: "https://github.com/pedrovazquezax/Pulmonary"
         tagline: "An app whose purpose is detecting lung damage using Machine Learning."
 skills:
-    title: Programming languages
+    title: SKILLS & PROFICIENCY
 
     toolset:
       - name: Swift
