@@ -77,7 +77,7 @@ education:
         Here I had my first approaches to the world of programming, thanks to this school I found my biggest hobby "Programming", from which I decided to pursue my professional career.
         
 experiences:
-  - role: iOS Developer
+    - role: iOS Developer
       time: 2017 - 2020
       company: Facultad Ingenieria,UNAM
       details: |
@@ -111,7 +111,7 @@ experiences:
         Collaborate in the Banco Azteca team developing an application for 3.5M users.
           - Swift
     - role: Desarrollador iOS 
-      time: 2021 - Actualmente
+      time: 2021 - Present
       company: Globant
       details: |
         I am currently assigned to the CitiBanamex project through Globant, maintaining and creating new features in the mobile application for iOS.
