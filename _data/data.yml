@@ -51,7 +51,7 @@ sidebar:
 career-profile:
     title: CAREER PROFILE 
     summary: |
-     Currently, I’m about to obtain my degree in Computer Engineering. I served as vice president of the Society of Students of Computer Engineering (SAIC for its initials in Spanish) and I am a collaborator teaching courses and mentoring in the UNAM’s Engineering School’s iOS Development Lab. My interests are development of applications for mobile devices, creation and management of projects and the creation of applications focused in health improvement. Currently I’m studying Node JS in order to become a Full Stack Developer.
+     Currently, I’m working at Globant ath CitiBanamex proyect. I served as vice president of the Society of Students of Computer Engineering (SAIC for its initials in Spanish) and I am a collaborator teaching courses and mentoring in the UNAM’s Engineering School’s iOS Development Lab. My interests are development of applications for mobile devices, creation and management of projects and the creation of applications focused in health improvement. Currently I’m studying Node JS in order to become a Full Stack Developer.
 
 education:
     - degree: Computer Engieneering
@@ -77,25 +77,46 @@ education:
         Here I had my first approaches to the world of programming, thanks to this school I found my biggest hobby "Programming", from which I decided to pursue my professional career.
         
 experiences:
-    - role: JAVA Developer
+  - role: iOS Developer
+      time: 2017 - 2020
+      company: Facultad Ingenieria,UNAM
+      details: |
+        Collaborate with the iOS Development Lab to create different applications for iOS, AppleTV and AppleWatch, as well as teach Swift courses..
+          - Swift
+          - Swift UI
+    - role: Java Developer
       time: 2018 - 2019
       company: Tribunal Electoral de la Ciudad de México (TECDMX)
       details: |
         I was involved in the development of a system whose purpose is data filling using poll data from a database, this system was developed using JAVA.
           - Java
-    - role: PHP Developer
+    - role: iOS Developer
       time: 2019 - 2019
       company: Instituto Nacional de la Infraestructura Física Educativa (INIFED)
       details: |
-        I worked alongside others in the development of a system for the management of the reconstruction of schools destroyed by the 2017 earthquake in Mexico City, this system was developed in PHP.
+        I worked alongside others in the development of a system for the management of the reconstruction of schools destroyed by the 2017 earthquake in Mexico City, this system was developed in PHP with an application for iOS in SWIFT language.
           - PHP
-    - role: Freelance Developer
-      time: 2020 - Actualmente
+          - Swift
+    - role: iOS Developer
+      time: 2020 - 2020
       company: Freelance
       details: |
-        I’m currently working with an insurance company in the development of an application for insurance price quotation. Swift, Swift UI
-        -Swift
-        -Swift UI
+        I worked with an insurance company in the development of an application for insurance price quotation.
+          - Swift
+          - Swift UI
+    - role: Desarrollador iOS
+      time: 2020 - 2021
+      company: Banco Azteca
+      details: |
+        Collaborate in the Banco Azteca team developing an application for 3.5M users.
+          - Swift
+    - role: Desarrollador iOS 
+      time: 2021 - Actualmente
+      company: Globant
+      details: |
+        I am currently assigned to the CitiBanamex project through Globant, maintaining and creating new features in the mobile application for iOS.
+          - Swift
+          - Swift UI
 projects:
     title: PROJECTS, AWARDS & ACHIEVMENTS.
     intro: >
